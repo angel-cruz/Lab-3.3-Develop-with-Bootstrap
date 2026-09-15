@@ -1,0 +1,9 @@
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.qr-column {
+  max-width: 20rem;
+}
